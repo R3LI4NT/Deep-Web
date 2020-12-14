@@ -4,32 +4,32 @@
 La Deep Web puede resultar un asunto muy delicado para aquellos aficionados de la seguridad, mientras que otros no saben ni lo que se pueden topar en ella.
 
 ## CONTENIDO
-• Deep Web
-_ Explicación
-• Mercados negros
-_ Venta de armas y drogas
-_ Documentación ilegal
-_ Alquilar hackers/crackers
-• Asesinos a sueldo (sicarios)
-_ Precios
-_ Requisitos
-_ Sitios
-• Refugió Suicida
-_ Sanctioned Suicide
-• Mitos y Realidades
-_ Niveles
-_ Cajas misteriosas
-_ Red Room
-_ Contenido (revistas, foros, cómics, películas, libros electrónicos, juegos, música, software)
-_ Secretos del Gobierno
-• Tor Browser
-_ Nodos
-• Como entrar a la Deep Web
-_ Instalación de Tor
-_ OpenVPN + VPNbook
-_ Dirección MAC
-_ Buscadores recomendados
-• The Hidden Wiki
+▶ Deep Web
+• Explicación
+▶ Mercados negros
+• Venta de armas y drogas
+• Documentación ilegal
+• Alquilar hackers/crackers
+▶ Asesinos a sueldo (sicarios)
+• Precios
+• Requisitos
+• Sitios
+▶ Refugió Suicida
+• Sanctioned Suicide
+▶ Mitos y Realidades
+• Niveles
+• Cajas misteriosas
+• Red Room
+• Contenido (revistas, foros, cómics, películas, libros electrónicos, juegos, música, software)
+• Secretos del Gobierno
+▶ Tor Browser
+• Nodos
+▶ Como entrar a la Deep Web
+• Instalación de Tor
+• OpenVPN + VPNbook
+• Dirección MAC
+• Buscadores recomendados
+▶ The Hidden Wiki
 
 Autor: R3LI4NT
 Portada: PANCHIOSO
