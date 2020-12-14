@@ -22,14 +22,14 @@ La Deep Web puede resultar un asunto muy delicado para aquellos aficionados de l
 - Red Room
 - Contenido (revistas, foros, cómics, películas, libros electrónicos, juegos, música, software)
 - Secretos del Gobierno
-▶ Tor Browser
+- Tor Browser
 - Nodos
-▶ Como entrar a la Deep Web
+- Como entrar a la Deep Web
 - Instalación de Tor
 - OpenVPN + VPNbook
 - Dirección MAC
 - Buscadores recomendados
-▶ The Hidden Wiki
+- The Hidden Wiki
 
 Autor: R3LI4NT
 Portada: PANCHIOSO
