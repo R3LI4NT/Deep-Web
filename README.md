@@ -5,30 +5,30 @@ La Deep Web puede resultar un asunto muy delicado para aquellos aficionados de l
 
 ## CONTENIDO
 • Deep Web
-- Explicación
+_ Explicación
 • Mercados negros
-- Venta de armas y drogas
-- Documentación ilegal
-- Alquilar hackers/crackers
+_ Venta de armas y drogas
+_ Documentación ilegal
+_ Alquilar hackers/crackers
 • Asesinos a sueldo (sicarios)
-- Precios
-- Requisitos
-- Sitios
+_ Precios
+_ Requisitos
+_ Sitios
 • Refugió Suicida
-- Sanctioned Suicide
+_ Sanctioned Suicide
 • Mitos y Realidades
-- Niveles
-- Cajas misteriosas
-- Red Room
-- Contenido (revistas, foros, cómics, películas, libros electrónicos, juegos, música, software)
-- Secretos del Gobierno
+_ Niveles
+_ Cajas misteriosas
+_ Red Room
+_ Contenido (revistas, foros, cómics, películas, libros electrónicos, juegos, música, software)
+_ Secretos del Gobierno
 • Tor Browser
-- Nodos
+_ Nodos
 • Como entrar a la Deep Web
-- Instalación de Tor
-- OpenVPN + VPNbook
-- Dirección MAC
-- Buscadores recomendados
+_ Instalación de Tor
+_ OpenVPN + VPNbook
+_ Dirección MAC
+_ Buscadores recomendados
 • The Hidden Wiki
 
 Autor: R3LI4NT
