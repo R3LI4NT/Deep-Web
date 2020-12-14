@@ -31,9 +31,11 @@ La Deep Web puede resultar un asunto muy delicado para aquellos aficionados de l
 - Buscadores recomendados
 - The Hidden Wiki
 
+```
 Autor: R3LI4NT
 Portada: PANCHIOSO
 Idioma: Español
+```
 
 ###### Descargar:
 ➤ MEDIAFIRE: https://www.mediafire.com/file/1on8i9030hrc8wn/Deep_Web_El_otro_lado_de_Internet.pdf/file
