@@ -38,6 +38,4 @@ Idioma: Español
 ```
 
 ###### Descargar:
-➤ MEDIAFIRE: https://www.mediafire.com/file/1on8i9030hrc8wn/Deep_Web_El_otro_lado_de_Internet.pdf/file
-
-➤ MEGA: https://mega.nz/file/6VlEXLgI#cxD6fImbqx6djITU1wdOLfK5MulRqdWMGANDIFS8Dy8
+➤ MEDIAFIRE: https://www.mediafire.com/file/8u41xk2dzzvdm3u/Deep_Web_El_otro_lado_de_Internet.pdf/file
